@@ -1,0 +1,23 @@
+{
+  "getAllStudentCode": [
+    "T2B3",
+    "W3EB",
+    "3M0I",
+    "R8F8",
+    "U8F7"
+  ],
+  "getAllClockedInStudent": [
+    {
+      "fullName": "Oluwajuwon Matthew",
+      "lga": "Ikorodu",
+      "code": "TRGD",
+      "timeIn": "12:12pm",
+      "timeOut": "2:00pm"
+    }
+  ],
+  "studentClockIn": {
+    "fullName": "",
+    "lga": "",
+    "code": ""
+  }
+}
